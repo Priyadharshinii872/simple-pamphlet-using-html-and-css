@@ -1,0 +1,119 @@
+body{
+    background-color: aliceblue;
+    margin: 0;
+}
+.image{
+    background: url(itgirl.jpg) no-repeat center; 
+    object-position: top;
+    background-size: cover;
+    max-width: 100%;
+    height: 500px;
+    position:relative;
+  }
+.skl{
+    color: brown;
+}
+h1{
+    margin-top: 20px;
+    color: rgb(19, 19, 126);
+    border-radius: 15px;
+    background:whitesmoke;
+    padding: 20px; 
+    width: 450px;
+    margin: 0;
+    padding-top: 10px;
+    border-top: 10px;
+  }
+h4{
+    color: rgb(19, 19, 126);
+}
+.about{
+    padding: 5px; 
+    width: 450px;
+    height: 10px;
+    font-family: sans-serif;
+    margin-top: 0;
+    margin-left: 5px;
+}
+.apara{
+    height: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.rightround{
+    margin-right: 100px;
+    margin-top: 0;
+    float: right;
+    border-radius: 100%;
+    background:rgb(240, 92, 92);
+    padding: 15px; 
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    color: white;
+}
+.curriculum{
+    text-align: center;
+    height: 40px;
+    margin-top: 100px;
+    font-weight: bold;
+    color: rgb(19, 19, 126);
+}
+.box1{
+    background-color:rgb(160, 207, 248);
+    width: 45%;
+    float:left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    height: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.box2{
+    background-color: rgb(160, 207, 248);
+    width: 45%;
+    float: right;
+    margin-right: 10px;
+    height: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.offer{
+    text-align: center;
+    height: 10px;
+    margin-top: 110px;
+    font-weight: bold;
+    color: rgb(19, 19, 126);
+    margin-bottom: 2px;
+}
+.sideheadings{
+    color: rgba(255, 0, 0, 0.595);
+    margin-left: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 3px;
+    margin-top: 2px;
+}
+.sh{
+    margin-top: 2px;
+    margin-left: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.hr{
+    margin-top: 2px;
+}
+.sticky-footer{
+    position: sticky;
+    top: 100%;
+    background-color: rgb(5, 51, 121);
+    color: white;
+}
+a{
+    color: rgb(226, 243, 254);
+}
+ul{
+    width: 30%;
+    display: inline-block;
+}
